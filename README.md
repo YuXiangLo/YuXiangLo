@@ -50,6 +50,10 @@ Here are some ideas to get you started:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="react logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="react logo"  /></code>
+  <img width="12" /> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="react logo"  /></code>
+  <img width="12" /> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="react logo"  /></code>
 </div>
 
 ## My Snake 
