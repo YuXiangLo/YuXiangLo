@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Yu Xiang 👋 </h1>
 
+* 🔭 I’m currently working on Taiwan AI Labs as a ML engineer intern.
+* 🌱 I’m currently learning Fintech and I'm looking forward to an internship in quantitative trading, or any else related.
+* 🍎 If you want to know more about me, please feel free to check out my website <https://yuxianglo.github.io/>
+* 📫 How to reach me: You can email me by <linus13514@gmail.com>
+
+
 ## Languages and Tools:
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
