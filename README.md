@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Yu Xiang 👋 </h1>
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2sxaHpjMWxpenoxb2lpNWFzM3pneWpxdnlvNHNtczNlbGp6YTU4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp" width="100"/>
+</div>
+
 * 🔭 I’m currently working on Taiwan AI Labs as a ML engineer intern.
 * 🌱 I’m currently learning Fintech and I'm looking forward to an internship in quantitative trading, or any else related.
 * 🍎 If you want to know more about me, please feel free to check out my website <https://yuxianglo.github.io/>
 * 📫 How to reach me: You can email me by <linus13514@gmail.com>
-
 
 ## Languages and Tools:
 <div align="left">
@@ -53,17 +56,19 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cpp logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="conda logo"  /></code>
   <img width="12" /> 
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
   <img width="12" /> 
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="torch logo"  /></code>
   <img width="12" /> 
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  /></code>
   <img width="12" /> 
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></code>
+  <img width="12" /> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  /></code>
 </div>
 
 ## My Snake 
