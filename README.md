@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YuXiangLo/YuXiangLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi, I'm Yu Xiang 👋 </h1>
 ![snakey](https://raw.githubusercontent.com/YuXiangLo/YuXiangLo.github.io/output/github-contribution-grid-snake-dark.svg)
