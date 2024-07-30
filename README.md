@@ -66,6 +66,8 @@ Here are some ideas to get you started:
   <img width="12" /> 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="torch logo"  /></code>
   <img width="12" /> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="sk-learn logo"  /></code>
+  <img width="12" /> 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  /></code>
   <img width="12" /> 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></code>
