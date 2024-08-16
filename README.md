@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 * 🔭 I’m currently working on Taiwan AI Labs as a ML engineer intern.
 * 🌱 I’m currently learning Fintech and I'm looking forward to an internship in quantitative trading, or any else related.
-* 🍎 If you want to know more about me, please feel free to check out my website <https://yuxianglo.github.io/>
+* 🌐 Website: [Click Here !!!](https://yuxianglo.github.io/)
 * 📫 How to reach me: You can email me by <linus13514@gmail.com>
 
 ## Languages and Tools:
