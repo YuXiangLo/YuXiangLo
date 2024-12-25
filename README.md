@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </div>
 
 * 🔭 I’m currently working on Taiwan AI Labs as a ML engineer intern.
-* 🌱 I’m currently learning Fintech and I'm looking forward to an internship in quantitative trading, or any else related.
 * 🌐 Website: [Click Here !!!](https://yuxianglo.github.io/)
 * 📫 How to reach me: You can email me by <linus13514@gmail.com>
 
