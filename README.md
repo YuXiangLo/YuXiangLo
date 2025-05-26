@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2sxaHpjMWxpenoxb2lpNWFzM3pneWpxdnlvNHNtczNlbGp6YTU4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp" width="100"/>
 </div>
 
-* 🔭 I’m currently working on Taiwan AI Labs as a ML engineer intern.
+* 🔭 I was working on Taiwan AI Labs as a ML engineer intern.
 * 🌐 Website: [Click Here !!!](https://yuxianglo.github.io/)
 * 📫 How to reach me: You can email me by <linus13514@gmail.com>
 
